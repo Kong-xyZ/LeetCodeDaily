@@ -23,6 +23,7 @@
  2 | [两数相加](medium/2.md) | 链表 |
  8 | [字符串转换整数 (atoi)](medium/8.md) | 字符串 |
  11 | [盛最多水的容器](medium/11.md) | 数组 |
+ 22 | [括号生成](medium/22.md) | DFS |
  289 | [生命游戏](medium/289.md) | 数组 |
  820 | [单词的压缩编码](medium/820.md) | DFS |
  面试题13 | [机器人的运动范围](medium/offer_13.md) | DFS |
