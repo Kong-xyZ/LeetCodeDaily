@@ -1,7 +1,8 @@
 # LeetCodeDaily
+
 记录LeetCode题目思路与解法  </br>
 
-### Easy  
+## Easy
 
  题目编号 | 题目名字 |  标签  |
 -|-|-
@@ -19,7 +20,7 @@
 
 ---
 
-### Medium  
+## Medium  
 
  题目编号 | 题目名字 |  标签  |
 -|-|-
@@ -29,6 +30,7 @@
  22 | [括号生成](medium/22.md) | DFS |
  55 | [跳跃游戏](medium/55.md) | 贪心 |
  151 | [翻转字符串里的单词](medium/151.md) | 字符串 |
+ 200 | [岛屿数量](medium/200.md) | BFS/DFS |
  289 | [生命游戏](medium/289.md) | 数组 |
  445 | [两数相加 II](medium/445.md) | 链表/栈 |
  820 | [单词的压缩编码](medium/820.md) | DFS |
